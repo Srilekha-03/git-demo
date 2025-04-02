@@ -1,1 +1,1 @@
-this is a file to store time complexities.O(n)
+this is a file to store time complexities
